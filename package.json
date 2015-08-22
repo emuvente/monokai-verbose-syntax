@@ -1,0 +1,15 @@
+{
+  "name": "monokai-verbose-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A Monokai-based Atom theme with additional colors for punctuation.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/monokai-verbose-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
