@@ -1,5 +1,5 @@
-# monokai-verbose-syntax theme
+# Monokai Verbose
 
-A Monokai-based Atom theme with additional colors for punctuation.
+A Monokai-based Atom theme with additional colors for meta and punctuation.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![A screenshot of monokai-verbose](screenshot.png)
