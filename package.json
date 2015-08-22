@@ -1,7 +1,7 @@
 {
   "name": "monokai-verbose-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Monokai-based Atom theme with additional colors for punctuation.",
   "keywords": [
     "syntax",
